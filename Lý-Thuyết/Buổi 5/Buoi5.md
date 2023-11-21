@@ -159,11 +159,16 @@ _Pull request hay gọi tắt viết tắt là PR_
 
 - Trạng thái kết thúc hoặc điểm cuối (Final State or End Point)
 ![Alt text](image-13.png)
+
 **Ví dụ:**
+
 - Biểu đồ hoạt động rút tiền tại cây ATM:
-  ![Alt text](image-18.png)
+ ![Alt text](image-18.png)
+
 - Biểu đồ hoạt động thể hiện một qúa trình đặt hàng.
+- 
   ![Alt text](image-19.png)
+  
 ##### b. Class Diagram (Biểu đồ lớp)
 ###### Khái niệm:
 - Class diagram mô tả kiểu của các đối tượng trong hệ thống và các loại quan hệ khác nhau tồn tại giữa chúng.
